@@ -53,7 +53,7 @@ async def init():
         pass
     await Spotify.decorators()
     LOGGER("Spotify_Music").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  🌸ᴍᴀᴅᴇ ʙʏᴇ ᴛᴇᴀᴍ ᴘʙx (sᴜᴋʜ) 🌸\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  🌸ᴍᴀᴅᴇ ʙʏᴇ ᴛᴇᴀᴍ 𝐍ᴏʙɪᴛꫝ 🌸\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
