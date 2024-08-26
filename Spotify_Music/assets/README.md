@@ -10,7 +10,7 @@
 
         •━━━━━━━━•••━━━━━━━━•
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=MADE+BY+NOBITA%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=HAMARE+REPO+ME+AAPKA+WELCOME+REPO+PEHLE+EDIT+KR+LIJIYE+🥹❣️MADE+BY+NOBITA%E2%9D%A4%EF%B8%8F"> 
 
         •━━━━━━━━•••━━━━━━━━•
 
