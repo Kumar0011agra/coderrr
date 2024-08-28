@@ -110,7 +110,7 @@ def queuemarkup(_, vidid, chat_id):
             ),
         ],
         [
-            InlineKeyboardButton(text="𝐍ᴏʙɪᴛꫝ", url="https://t.me/YOUR_CRUSH_CODER"),
+            InlineKeyboardButton(text="『ɪɴᴅ』乛 𝐃𝚲꯭𝗥𝚱 ִֶָ 𝐂❍𝐃𝜩Ɽ𓍢ִ໋🍃‌֒ ִֶָ 𝅃꯭᳚𓆩꯭〭〬🤍𓆪ꪾ", url="https://t.me/YOUR_CRUSH_CODER"),
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
                 url="https://t.me/YOUR_CRUSH_CODER",
