@@ -72,10 +72,10 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="𝐍ᴏʙɪᴛꫝ", url="https://t.me/ll_NOBITA_BOT_DEVLOPER_ll"),
+            InlineKeyboardButton(text="DARK", url="https://t.me/YOUR_CRUSH_CODER"),
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/NOBITA_ALL_BOT",
+                url="https://t.me/YOUR_CRUSH_CODER",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -110,10 +110,10 @@ def queuemarkup(_, vidid, chat_id):
             ),
         ],
         [
-            InlineKeyboardButton(text="𝐍ᴏʙɪᴛꫝ", url="https://t.me/ll_NOBITA_BOT_DEVLOPER_ll"),
+            InlineKeyboardButton(text="𝐍ᴏʙɪᴛꫝ", url="https://t.me/YOUR_CRUSH_CODER"),
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/NOBITA_ALL_BOT",
+                url="https://t.me/YOUR_CRUSH_CODER",
             ),
         ],
     ]
